@@ -6,7 +6,7 @@
 [![Release](https://img.shields.io/badge/release-v0.4.7-blue)](https://github.com/solid-logic-studios/bucketwise-planner/releases)
 
 Multi-user budgeting app implementing Scott Pape's Barefoot Investor methodology. Fortnightly budgeting with bucket allocations (60/10/10/20), automated debt snowball payoff, transaction tracking, and optional AI financial advisor.
-
+ 
 ## 🙏 Acknowledgments
 
 This project implements the budgeting methodology created by **Scott Pape** in his book _[The Barefoot Investor](https://www.barefootinvestor.com/)_. The bucket-based allocation strategy (60% Daily Expenses, 10% Splurge, 10% Smile, 20% Fire Extinguisher) and debt snowball method are core principles from his work, which has helped millions of people take control of their finances.
